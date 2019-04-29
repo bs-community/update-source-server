@@ -18,4 +18,4 @@
 
 Copyright (c) 2019 The Blessing Skin Community
 
-这个程序以 MIT 协议开源，你可以在不违反 MIT 协议的条件下对这个程序做任何你想做的事
+这个程序以 MIT 协议开源，你可以在不违反 MIT 协议的条件下对这个程序做任何你想做的事。

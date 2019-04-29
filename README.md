@@ -11,7 +11,7 @@
 ## 使用方法
 
 1. 将这个仓库 Clone 或下载到你的网站目录；
-2. 使用浏览器访问或在终端中执行 `init.php`；
+2. 使用浏览器访问或在终端中执行 `init.php`，等待程序输出 `done` 即完成这步；
 3. 将 `update.php` 的完整 URL 填入 Blessing Skin Server 的 `.env` 文件中的 `UPDATE_SOURCE` 项中即可。
 
 ## 版权

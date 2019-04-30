@@ -18,7 +18,7 @@ if($currectVersion != $official['latest']) {
     // 避免重复操作，先查询下载状态
     if($downloadStatus != "downloading") {
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, is_https() . $_SERVER['HTTP_HOST'] . '/bs-update/download.php');
+        curl_setopt($ch, CURLOPT_URL, is_https() . $_SERVER['HTTP_HOST'] . '/download.php');
         curl_setopt($ch, CURLOPT_TIMEOUT_MS, 100);
         curl_exec($ch);
         curl_close($ch);
